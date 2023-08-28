@@ -1,0 +1,16 @@
+.gitignore
+.git/
+
+.dockerignore
+Dockerfile
+
+.github/
+
+.env
+
+node_modules/
+
+.tool-versions
+*.md
+
+infra/
